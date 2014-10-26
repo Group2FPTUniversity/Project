@@ -1,5 +1,4 @@
-//Phan cua trux
-<<<<<<< .mine
+//abc<<<<<<< .mine
 
 
 
