@@ -1,5 +1,4 @@
 //Phan cua trux
-<<<<<<< .mine
 
 
 
@@ -19,24 +18,3 @@
 edit j do trong nay, hehe
 1 + 1 =2
 2 + 2 = 4
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> .theirs
